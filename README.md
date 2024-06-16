@@ -2,7 +2,7 @@
 I am currently working as Software Developer continued R&D Engineer.
 <hr/>
 <hr/>
-<a href='https://drive.google.com/file/d/1rDkg05c53LZPsFeaZB_zjVNjbBMdQIOa/view?usp=sharing'>Resume Link</a>
+ <a href='https://leetcode.com/u/_vamsiikrishna/'>Leetcode Profile</a><pre>                </pre><a href='https://drive.google.com/file/d/1rDkg05c53LZPsFeaZB_zjVNjbBMdQIOa/view?usp=sharing'>Resume Link</a>
 <hr/>
 <b> Reach out me @vamsiikrishna.dev@gmail.com
 <hr/>
