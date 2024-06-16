@@ -7,7 +7,7 @@ I am currently working as Software Developer continued R&D Engineer.
 
 - 👨‍💻 All of my projects are available at [http://vamsikrishna.portfolio.in](http://vamsikrishna.portfolio.in)
 
-- 💬 Ask me about **react, .NET Core**
+- 💬 Ask me about **React, .NET Core and Computer Vision** 
   
 - 👨‍💻 My Leetcode profile at [http://leetcode.io](https://leetcode.com/_vamsiikrishna/)
   
