@@ -14,7 +14,7 @@ I am currently working as Software Developer continued **R&D Engineer**.
 -  👨‍💻 My Resume at [drive://Resume_Vamsi ](https://drive.google.com/file/d/1rDkg05c53LZPsFeaZB_zjVNjbBMdQIOa/view?usp=sharing)
 
 - 📫 How to reach me **vamsiikrishna.dev@gmail.com**
-  
+<hr/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-krishna-b7543922b/) 
