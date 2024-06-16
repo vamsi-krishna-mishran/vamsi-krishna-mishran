@@ -1,13 +1,18 @@
 # 💫 About Me:
 I am currently working as Software Developer continued R&D Engineer.
 <hr/>
-<hr/>
  <a href='https://leetcode.com/u/_vamsiikrishna/'>Leetcode Profile</a><pre>                </pre><a href='https://drive.google.com/file/d/1rDkg05c53LZPsFeaZB_zjVNjbBMdQIOa/view?usp=sharing'>Resume Link</a>
 <hr/>
-<b> Reach out me @vamsiikrishna.dev@gmail.com
-<hr/>
-<hr/>
 
+
+- 🔭 I’m currently working on **Chat System**
+
+- 👨‍💻 All of my projects are available at [http://vamsikrishna.portfolio.in](http://vamsikrishna.portfolio.in)
+
+- 💬 Ask me about **react, .NET Core**
+
+- 📫 How to reach me **vamsiikrishna.dev@gmail.com**
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-krishna-b7543922b/) 
