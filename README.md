@@ -11,9 +11,9 @@ I am currently working as Software Developer continued R&D Engineer.
 
 - 💬 Ask me about **react, .NET Core**
   
-- 👨‍💻 My Leetcode profile at [https://leetcode.com/_vamsiikrishna/](http://leetcode.io)
+- 👨‍💻 My Leetcode profile at [http://leetcode.io](https://leetcode.com/_vamsiikrishna/)
   
--  👨‍💻 My Resume at [https://drive.google.com/file/d/1rDkg05c53LZPsFeaZB_zjVNjbBMdQIOa/view?usp=sharing](drive://Resume_Vamsi)
+-  👨‍💻 My Resume at [drive://Resume_Vamsi ](https://drive.google.com/file/d/1rDkg05c53LZPsFeaZB_zjVNjbBMdQIOa/view?usp=sharing)
 
 - 📫 How to reach me **vamsiikrishna.dev@gmail.com**
   
