@@ -11,7 +11,7 @@ I am currently working as Software Developer continued **R&D Engineer**.
   
 - 👨‍💻 My Leetcode profile at [http://leetcode.io](https://leetcode.com/_vamsiikrishna/)
   
--  👨‍💻 My Resume at [drive://Resume_Vamsi ](https://drive.google.com/file/d/1rDkg05c53LZPsFeaZB_zjVNjbBMdQIOa/view?usp=sharing)
+-  👨‍💻 My Resume at [drive://Resume_Vamsi ](https://drive.google.com/file/d/1Be3ngYlzVsDmkJNOuIqiIPzoQQD0a8XN/view?usp=sharing)
 
 - 📫 How to reach me **vamsiikrishna.dev@gmail.com**
 <hr/>
