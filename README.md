@@ -5,7 +5,7 @@ I am currently working as Software Developer continued **R&D Engineer**.
 
 - 🔭 I’m currently working on **Chat System** [repository link](https://github.com/vamsi-krishna-mishran/chat-system)
 
-- 👨‍💻 All of my projects are available at [http://vamsikrishna.portfolio.in](http://vamsikrishna.portfolio.in)
+- 👨‍💻 All of my projects are available at [http://vamsikrishna.portfolio.in](https://portfoliovamsikrishna-vamsikrishnamishrans-projects.vercel.app/)
 
 - 💬 Ask me about **React, .NET Core and Computer Vision** 
   
