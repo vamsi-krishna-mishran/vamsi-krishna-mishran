@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as Software Developer continued **R&D Engineer**.
+I am currently working as Software Engineer II continued **R&D Engineer**.
 <hr/>
 
 
