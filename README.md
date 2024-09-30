@@ -3,7 +3,7 @@ I am currently working as Software Engineer II continued **R&D Engineer**.
 <hr/>
 
 
-- 🔭 I’m currently working on **Chat System** [repository link](https://github.com/vamsi-krishna-mishran/chat-system)
+- 🔭 I’m currently working on **Object Detection and Tracking R&D Project**
 
 - 👨‍💻 All of my projects are available at [http://vamsikrishna.portfolio.in](https://portfoliovamsikrishna-vamsikrishnamishrans-projects.vercel.app/)
 
