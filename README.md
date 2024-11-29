@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as Software Engineer II continued **R&D Engineer**.
+Working as Software Engineer II continued **R&D Engineer**, Passionate about backend and fullstack system development.
 <hr/>
 
 
